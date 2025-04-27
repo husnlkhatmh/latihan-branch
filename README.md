@@ -1,4 +1,4 @@
-# Pyoyek Klasifikasi gambar
+# Proyek Klasifikasi gambar
 
 Dalam proyek ini dilakukan klasifikasi pada gambar buah-buahan menggunkan transfer learning berbasis MobileNetV2 dan deep learning. Terdapat 5 jenis buah yang akan diklasifikasi oleh model yaitu :
 
@@ -8,9 +8,10 @@ Dalam proyek ini dilakukan klasifikasi pada gambar buah-buahan menggunkan transf
 * Mango
 * Strawberry
 
-#Link dataset :
+# Link dataset :
 https://www.kaggle.com/datasets/marquis03/flower-classification
-Dataset tersebut terdiri dari 10.000 gambar yang dibagi menjadi 5 kelas yang di masing-masing kelas terdiri dari 2000 gambar. 
+
+Dataset tersebut terdiri dari 10.000 gambar yang dibagi menjadi 5 kelas yang di masing-masing kelas terdiri dari 2.000 gambar. 
 
 #Akurasi model
 

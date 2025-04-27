@@ -13,7 +13,7 @@ https://www.kaggle.com/datasets/marquis03/flower-classification
 
 Dataset tersebut terdiri dari 10.000 gambar yang dibagi menjadi 5 kelas yang di masing-masing kelas terdiri dari 2.000 gambar. 
 
-#Akurasi model
+# Akurasi model
 
 
 | Epoch | Training Accuracy | Training Loss | Validation Accuracy | Validation Loss |
@@ -36,4 +36,4 @@ Dataset tersebut terdiri dari 10.000 gambar yang dibagi menjadi 5 kelas yang di 
 
 Akurasi Testing :86%
 
-Model ini menunjukkan kinerja yang baik, dengan akurasi pelatihan mencapai 91.15% dan akurasi validasi stabil di atas 85%. Meskipun ada sedikit fluktuasi pada validasi, model ini dapat generalisasi dengan baik.
+Model menunjukkan kinerja yang baik, dengan akurasi pelatihan mencapai 91.15% dan akurasi validasi stabil di atas 85%. Meskipun ada sedikit fluktuasi pada validasi, model ini dapat generalisasi dengan baik.
